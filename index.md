@@ -12,7 +12,7 @@
 | <https://www.blazesnow.cn>     | :white_check_mark: |
 | <https://blazesnow.github.io>  | :white_check_mark: |
 | <https://blazesnow.pages.dev>  | :white_check_mark: |
-| <https://blazesnow.vercel.app> | 正在运行           |
+| <https://blazesnow.vercel.app> | :white_check_mark: |
 
 | 图例                     | 说明     |
 | :----------------------- | :------- |
