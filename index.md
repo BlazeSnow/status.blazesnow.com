@@ -1,3 +1,9 @@
+---
+lastUpdated: false
+titleTemplate: 'BlazeSnow网站状态'
+layout: doc
+---
+
 # BlazeSnow网站状态
 
 > 本网站链接：<https://status.blazesnow.com>
