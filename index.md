@@ -18,7 +18,7 @@ layout: doc
 | <https://www.blazesnow.cn>     | 粤ICP备2024284878号 | :white_check_mark: |
 | <https://blazesnow.github.io>  | GitHub Pages        | :white_check_mark: |
 | <https://blazesnow.pages.dev>  | Cloudflare Pages    | :white_check_mark: |
-| <https://blazesnow.vercel.app> | Vercel              | :white_check_mark: |
+| <https://blazesnow.vercel.app> | Vercel              | :o:                |
 
 | 图例                     | 说明                   |
 | :----------------------- | :--------------------- |
