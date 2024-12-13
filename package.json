@@ -1,16 +1,10 @@
 {
   "name": "status.blazesnow.com",
-  "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "author": "",
-  "license": "SEE LICENSE IN LICENSE",
-  "description": "",
   "devDependencies": {
     "vitepress": "^1.5.0"
   }
