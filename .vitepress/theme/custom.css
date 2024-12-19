@@ -4,3 +4,11 @@
     --vp-c-brand-3: #0080FF;
     --vp-c-brand-soft: #0080FF;
 }
+
+html,
+body,
+.vp-doc blockquote p,
+.vp-doc table * {
+    line-height: 1.6;
+    font-size: 16px;
+}
