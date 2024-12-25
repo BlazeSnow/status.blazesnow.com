@@ -1,7 +1,7 @@
 ---
 lastUpdated: false
 titleTemplate: 'BlazeSnow网站状态'
-layout: home
+layout: doc
 ---
 
 <script setup>
@@ -10,8 +10,6 @@ import NotGood from '/status/NotGood.vue'
 import Bad from '/status/Bad.vue'
 import Off from '/status/Off.vue'
 </script>
-<br>
-<br>
 
 # BlazeSnow网站状态
 
