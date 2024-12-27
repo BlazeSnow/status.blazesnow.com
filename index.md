@@ -1,7 +1,7 @@
 ---
 lastUpdated: false
 titleTemplate: 'BlazeSnow网站状态'
-layout: doc
+layout: home
 ---
 
 <script setup>
@@ -11,9 +11,7 @@ import Bad from '/status/Bad.vue'
 import Off from '/status/Off.vue'
 </script>
 
-# BlazeSnow网站状态
-
-> 本网站链接：<https://status.blazesnow.com>
+### 本网站链接：<https://status.blazesnow.com>
 
 | 网页                           | 备注                | 状态   |
 | :----------------------------- | :------------------ | :----- |
