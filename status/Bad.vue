@@ -3,7 +3,7 @@
 
 <template>
     <div class="custom">
-        ⭕️ 出现重大问题 Major Outage
+        ⭕️ 正在维护，出现重大问题
     </div>
 </template>
 

@@ -10,12 +10,13 @@ export default defineConfig({
             { rel: 'icon', href: '/logo.ico' }
         ],
     ],
-    metaChunk: true,
     sitemap: {
         hostname: 'https://status.blazesnow.com/'
     },
     themeConfig: {
         logo: '/logo.ico',
+        aside: false,
+        outline: false,
         //关掉语言自动路径
         i18nRouting: false,
         //切换深色或浅色模式提示
