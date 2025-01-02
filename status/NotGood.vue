@@ -3,7 +3,7 @@
 
 <template>
     <div class="custom">
-        ❗ 正在维护，日常维护
+        ❗ 正在日常维护 Under Maintenance
     </div>
 </template>
 

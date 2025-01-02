@@ -3,7 +3,7 @@
 
 <template>
     <div class="custom">
-        ❌ 中止服务
+        ❌ 中止运行 Service Disabled
     </div>
 </template>
 

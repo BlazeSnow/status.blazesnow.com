@@ -3,7 +3,7 @@
 
 <template>
     <div class="custom">
-        ✅ 正在正常运行
+        ✅ 正在运行 Operational
     </div>
 </template>
 
