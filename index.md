@@ -2,6 +2,9 @@
 lastUpdated: false
 titleTemplate: 'BlazeSnow网站状态'
 layout: home
+hero:
+  name: BlazeSnow网站状态
+  tagline: status.blazesnow.com
 ---
 
 <script setup>
@@ -11,13 +14,11 @@ import Bad from '/status/Bad.vue'
 import Off from '/status/Off.vue'
 </script>
 
-### 本网站链接：<https://status.blazesnow.com>
-
-| 网页                           | 备注                | 状态   |
-| :----------------------------- | :------------------ | :----- |
-| <https://blazesnow.com>        | 主站                | <OK /> |
-| <https://blazesnow.org>        | 备用                | <OK /> |
-| <https://blazesnow.cn>         | 粤ICP备2024284878号 | <OK /> |
-| <https://blazesnow.github.io>  | GitHub Pages        | <OK /> |
-| <https://blazesnow.pages.dev>  | Cloudflare Pages    | <OK /> |
-| <https://blazesnow.vercel.app> | Vercel              | <OK /> |
+| 网页                           | 状态   | 备注                |
+| :----------------------------- | :----- | :------------------ |
+| <https://blazesnow.com>        | <OK /> | 主站                |
+| <https://blazesnow.org>        | <OK /> | 备用                |
+| <https://blazesnow.cn>         | <OK /> | 粤ICP备2024284878号 |
+| <https://blazesnow.github.io>  | <OK /> | GitHub Pages        |
+| <https://blazesnow.pages.dev>  | <OK /> | Cloudflare Pages    |
+| <https://blazesnow.vercel.app> | <OK /> | Vercel              |
