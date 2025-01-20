@@ -1,5 +1,4 @@
 ---
-lastUpdated: false
 titleTemplate: 'BlazeSnow网站状态'
 layout: home
 hero:
@@ -15,11 +14,11 @@ import Bad from '/status/Bad.vue'
 import Off from '/status/Off.vue'
 </script>
 
-| 网页                           | 状态        | 备注                |
-| :----------------------------- | :---------- | :------------------ |
-| <https://blazesnow.com>        | <OK />      | 主站                |
-| <https://blazesnow.org>        | <OK />      | 备用                |
-| <https://blazesnow.cn>         | <NotGood /> | 粤ICP备2024284878号 |
-| <https://blazesnow.github.io>  | <OK />      | GitHub Pages        |
-| <https://blazesnow.pages.dev>  | <OK />      | Cloudflare Pages    |
-| <https://blazesnow.vercel.app> | <OK />      | Vercel              |
+| 网页                           | 状态   | 备注                |
+| :----------------------------- | :----- | :------------------ |
+| <https://blazesnow.com>        | <OK /> | 主站                |
+| <https://blazesnow.org>        | <OK /> | 备用                |
+| <https://blazesnow.cn>         | <OK /> | 粤ICP备2024284878号 |
+| <https://blazesnow.github.io>  | <OK /> | GitHub Pages        |
+| <https://blazesnow.pages.dev>  | <OK /> | Cloudflare Pages    |
+| <https://blazesnow.vercel.app> | <OK /> | Vercel              |
