@@ -69,7 +69,7 @@ export default {
     font-size: 1.1rem;
     font-weight: 600;
     text-align: left;
-    word-break: keep-all;
+    word-break: break-word;
 }
 
 .divider {

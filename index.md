@@ -18,3 +18,9 @@ import onedrivehosts from '/status/onedrivehosts.vue'
 ## OneDriveHosts
 
 <onedrivehosts />
+
+## 历史故障
+
+### 2025.1.10 - 2025.1.17
+
+blazesnow.cn接受ICP备案审核
