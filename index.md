@@ -7,12 +7,9 @@ hero:
 ---
 
 <script setup>
-import all from '/status/all.vue'
 import blazesnow from '/status/blazesnow.vue'
 import onedrivehosts from '/status/onedrivehosts.vue'
 </script>
-
-<all />
 
 ## BlazeSnow帮助网站
 

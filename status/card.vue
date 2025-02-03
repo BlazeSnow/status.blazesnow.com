@@ -9,10 +9,6 @@ export default {
             type: String,
             required: false
         },
-        description: {
-            type: String,
-            required: false
-        }
     }
 };
 </script>
@@ -22,10 +18,6 @@ export default {
         <a :href="link" target="_blank" class="card">
             <p class="title">
                 {{ title }}
-            </p>
-            <p class="divider"></p>
-            <p class="description">
-                {{ description }}
             </p>
             <p class="divider"></p>
             <div class="status">
@@ -75,18 +67,6 @@ export default {
 .divider {
     margin-left: 1rem;
     margin-right: 1rem;
-}
-
-.description {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 0.9rem;
-    font-weight: normal;
-    line-height: 1.6;
-    text-align: center;
-    word-break: break-word;
 }
 
 .status {

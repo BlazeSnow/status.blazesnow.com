@@ -13,7 +13,7 @@ import Off from '/status/Off.vue'
             <OK />
         </template>
     </card>
-    <card title="raw.githubusercontent.com" link="https://raw.githubusercontent.com/BlazeSnow/OneDriveHosts/main/hosts">
+    <card title="github.com" link="https://raw.githubusercontent.com/BlazeSnow/OneDriveHosts/main/hosts">
         <template #status>
             <OK />
         </template>

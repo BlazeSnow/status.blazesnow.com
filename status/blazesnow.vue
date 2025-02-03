@@ -8,32 +8,32 @@ import Off from '/status/Off.vue'
 </script>
 
 <template>
-    <card title="blazesnow.com" link="https://blazesnow.com" description="主站">
+    <card title="blazesnow.com" link="https://blazesnow.com">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="blazesnow.org" link="https://blazesnow.org" description="备用">
+    <card title="blazesnow.org" link="https://blazesnow.org">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="blazesnow.cn" link="https://blazesnow.cn" description="粤ICP备2024284878号">
+    <card title="blazesnow.cn" link="https://blazesnow.cn">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="blazesnow.github.io" link="https://blazesnow.github.io" description="GitHub Pages">
+    <card title="blazesnow.github.io" link="https://blazesnow.github.io">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="blazesnow.pages.dev" link="https://blazesnow.pages.dev" description="Cloudflare Pages">
+    <card title="blazesnow.pages.dev" link="https://blazesnow.pages.dev">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="blazesnow.vercel.app" link="https://blazesnow.vercel.app" description="Vercel">
+    <card title="blazesnow.vercel.app" link="https://blazesnow.vercel.app">
         <template #status>
             <OK />
         </template>
