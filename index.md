@@ -7,20 +7,7 @@ hero:
 ---
 
 <script setup>
-import blazesnow from '/status/blazesnow.vue'
-import onedrivehosts from '/status/onedrivehosts.vue'
+import index from '/index.vue'
 </script>
 
-## BlazeSnow帮助网站
-
-<blazesnow />
-
-## OneDriveHosts
-
-<onedrivehosts />
-
-## 历史故障
-
-### 2025.1.10 - 2025.1.17
-
-blazesnow.cn接受ICP备案审核
+<index />
