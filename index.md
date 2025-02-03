@@ -7,11 +7,7 @@ hero:
 ---
 
 <script setup>
-import OK from '/status/OK.vue'
-import NotGood from '/status/NotGood.vue'
-import Review from '/status/Review.vue'
-import Bad from '/status/Bad.vue'
-import Off from '/status/Off.vue'
+import index from 'index.vue'
 </script>
 
 | 网页                           | 状态   | 备注                |
@@ -22,3 +18,5 @@ import Off from '/status/Off.vue'
 | <https://blazesnow.github.io>  | <OK /> | GitHub Pages        |
 | <https://blazesnow.pages.dev>  | <OK /> | Cloudflare Pages    |
 | <https://blazesnow.vercel.app> | <OK /> | Vercel              |
+
+<index />
