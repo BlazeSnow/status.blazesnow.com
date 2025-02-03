@@ -5,7 +5,6 @@ export default defineConfig({
     title: "BlazeSnow网站状态",
     description: "BlazeSnow网站状态",
     head: [
-        //网页logo
         ['link',
             { rel: 'icon', href: '/logo.ico' }
         ],
