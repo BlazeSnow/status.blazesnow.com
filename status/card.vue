@@ -18,8 +18,8 @@ export default {
 </script>
 
 <template>
-    <div style="padding-top: 12px;">
-        <a :href="link" class="card">
+    <div style="padding-top: 0.5rem;">
+        <a :href="link" target="_blank" class="card">
             <p class="title">
                 {{ title }}
             </p>
@@ -62,41 +62,42 @@ export default {
 }
 
 .title {
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
-    margin-left: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
     margin-right: auto;
     font-size: 1.1rem;
     font-weight: 600;
     text-align: left;
+    word-break: keep-all;
 }
 
 .divider {
-    margin-left: 1.25rem;
-    margin-right: 1.25rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .description {
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
     font-size: 0.9rem;
     font-weight: normal;
     line-height: 1.6;
-    text-align: right;
+    text-align: center;
     word-break: break-word;
 }
 
 .status {
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     margin-left: auto;
-    margin-right: 1.25rem;
+    margin-right: 1rem;
     font-size: 0.9rem;
     font-weight: normal;
     line-height: 1.6;
-    text-align: right;
+    text-align: end;
     word-break: break-word;
 }
 </style>

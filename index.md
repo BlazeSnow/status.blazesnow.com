@@ -7,7 +7,14 @@ hero:
 ---
 
 <script setup>
-import index from '/status/index.vue'
+import blazesnow from '/status/blazesnow.vue'
+import onedrivehosts from '/status/onedrivehosts.vue'
 </script>
 
-<index />
+## BlazeSnow帮助网站
+
+<blazesnow />
+
+## OneDriveHosts
+
+<onedrivehosts />
