@@ -7,7 +7,7 @@ hero:
 ---
 
 <script setup>
-import index from 'index.vue'
+import index from '/status/index.vue'
 </script>
 
 | 网页                           | 状态   | 备注                |

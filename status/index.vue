@@ -1,5 +1,5 @@
 <script setup>
-import card from '/card.vue'
+import card from '/status/card.vue'
 import OK from '/status/OK.vue'
 import NotGood from '/status/NotGood.vue'
 import Review from '/status/Review.vue'
