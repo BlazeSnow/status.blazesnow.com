@@ -8,18 +8,17 @@ import Off from '/status/Off.vue'
 </script>
 
 <template>
-    <card title="onedrivehosts.blazesnow.com" link="https://onedrivehosts.blazesnow.com" description="">
+    <card title="onedrivehosts.blazesnow.com" link="https://onedrivehosts.blazesnow.com">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="raw.githubusercontent.com" link="https://raw.githubusercontent.com/BlazeSnow/OneDriveHosts/main/hosts"
-        description="">
+    <card title="raw.githubusercontent.com" link="https://raw.githubusercontent.com/BlazeSnow/OneDriveHosts/main/hosts">
         <template #status>
             <OK />
         </template>
     </card>
-    <card title="gitee.com" link="https://gitee.com/blazesnow/OneDriveHosts/raw/main/hosts" description="">
+    <card title="gitee.com" link="https://gitee.com/blazesnow/OneDriveHosts/raw/main/hosts">
         <template #status>
             <OK />
         </template>
